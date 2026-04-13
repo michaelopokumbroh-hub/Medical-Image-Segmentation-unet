@@ -47,7 +47,7 @@ Two architectures were developed and compared:
 ## 🚀 Inference
 - Generated segmentation masks on test set
 - Converted masks to RLE format
-- Submitted to Kaggle leaderboard
+- Submitted to Kaggle leaderboard. UNet = 0.89905 | ResNet34+UNet = 0.86686
 
 ## 🛠 Technologies
 - Python
